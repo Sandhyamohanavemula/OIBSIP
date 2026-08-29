@@ -42,9 +42,4 @@ WebDev-L1-Task3-TemperatureConverter/
 └── README.md
 
 
-## 🎓 Internship Details
 
-**Organization:** Oasis Infobyte  
-**Track:** Web Development & Designing  
-**Level:** Level 1  
-**Task:** Task 3 – Temperature Converter Website
